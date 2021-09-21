@@ -32,3 +32,5 @@ There is one sorting example for each class in `index.ts`.
 
 Type `$npm run start` to see results.
 
+When you see error after run this command stop the process `cmd/ctrl + c` and try again. Nodemon probably tries to run index.js before tsc creates it.
+
